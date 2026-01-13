@@ -52,8 +52,15 @@ I enjoy working with real-world datasets and turning data into insights.
 ---
 
 ## 🎓 Education
-- BS – [Data Science and Applications]  
-  [Indian Institute of Technology, Madras] | [2023 – Present]
+
+### Bachelor of Science (BS) – Data Science and Applications  
+**Indian Institute of Technology, Madras**  
+📅 2023 – Present  
+
+- Focus on Data Analysis, Programming, and Statistics
+- Worked on multiple academic and self-driven projects
+- Practical coursework involving Python, SQL, and Data Handling  
+- Application-oriented learning with real-world datasets
 
 ---
 
@@ -107,6 +114,7 @@ I enjoy working with real-world datasets and turning data into insights.
 💼 [LinkedIn](https://linkedin.com/in/ikshu-gupta)
 💻 [GitHub](https://github.com/ikshu7)
 📧 [Email](mailto:ikshugupta7@email.com)
+💻 [LeetCode](https://leetcode.com/ikshu7)
 📊 [Kaggle](https://kaggle.com/ikshugupta)
 
 <!--
