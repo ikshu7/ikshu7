@@ -87,27 +87,21 @@ Tools: Git, GitHub, Command Line
 
 ## Problem Solving and Data Platforms
 
-<img src="https://leetcard.jacoblin.cool/ikshu7?theme=neutral" height="140"/>
+- Solved a significant number of LeetCode problems across Easy, Medium, and Hard categories
+- Strong focus on data structures, algorithms, and problem-solving patterns
+- Earned multiple achievement badges on LeetCode
+
+<img src="https://leetcard.jacoblin.cool/ikshu7?theme=dark" height="140"/>
 
 ---
 
 ## Connect With Me
 
-<a href="https://linkedin.com/in/ikshu-gupta">
-  <img src="https://cdn.simpleicons.org/linkedin" height="22"/>
-</a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:ikshugupta7@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail" height="22"/>
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/ikshu7">
-  <img src="https://cdn.simpleicons.org/github" height="22"/>
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/ikshu7">
-  <img src="https://cdn.simpleicons.org/leetcode" height="22"/>
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://kaggle.com/ikshugupta">
-  <img src="https://cdn.simpleicons.org/kaggle" height="22"/>
-</a>
+- LinkedIn: https://linkedin.com/in/ikshu-gupta
+- Email: ikshugupta7@gmail.com
+- GitHub: https://github.com/ikshu7
+- LeetCode: https://leetcode.com/ikshu7
+- Kaggle: https://kaggle.com/ikshugupta
 
 
 
