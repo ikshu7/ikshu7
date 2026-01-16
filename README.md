@@ -1,7 +1,7 @@
 ## Hi, I'm Ikshu
 
-Aspiring Data Scientist | Python | SQL | Data Science  
-India  
+Aspiring Data Scientist with Backend Development Experience | Python, SQL  
+India 
 
 ---
 
@@ -15,8 +15,9 @@ My interests include data analysis, visualization, and building scalable backend
 
 ## Experience
 
-### Backend Developer Intern | [Vibrant Digitech]
+### Backend Developer Intern | Vibrant Digitech
 July 2025 – December 2025
+
 - Built and maintained backend applications using **Django** and **Flask**
 - Developed REST APIs and handled server-side logic
 - Designed database schemas and performed CRUD operations
@@ -28,7 +29,9 @@ July 2025 – December 2025
 
 ## Projects
 
-### Hospital Management System 🔗 [View Repository](https://github.com/ikshu7/Hospital-Management-App)
+### Hospital Management System 
+[View Repository](https://github.com/ikshu7/Hospital-Management-App)
+
 - Developed a web-based hospital management application to manage patients, doctors, and appointments
 - Implemented backend functionality using **Flask**
 - Designed database schemas and handled CRUD operations
@@ -37,7 +40,9 @@ July 2025 – December 2025
 
 **Tech Stack:** Python, Flask, SQL, HTML, CSS  
 
-### Vehicle Parking Management System 🔗 [View Repository](https://github.com/ikshu7/vehicle-parking-system)
+### Vehicle Parking Management System  
+[View Repository](https://github.com/ikshu7/vehicle-parking-system)
+
 - Developed a multi-user vehicle parking management web application
 - Implemented **Admin and User roles** with separate dashboards
 - Designed relational database schema for parking slots, vehicles, and reservations
@@ -66,7 +71,7 @@ July 2025 – December 2025
 
 ## Skills
 
-Programming Languages: Python, SQL, R, Java 
+Programming Languages: Python, SQL, JavaScript, R, Java 
 
 Data Analysis & Visualization: NumPy, Pandas, Matplotlib, EDA, Data Cleaning 
 
@@ -76,26 +81,34 @@ Backend Development: Flask, Django, REST APIs, Authentication, Authorization
 
 Frontend Development: HTML, CSS, Bootstrap, Jinja2  
 
-Tools: Git, GitHub, VS Code, Command Line
+Tools: Git, GitHub, Command Line
+
+---
+
+## Problem Solving and Data Platforms
+
+<img src="https://leetcard.jacoblin.cool/ikshu7?theme=neutral" height="140"/>
 
 ---
 
 ## Connect With Me
+
 <a href="https://linkedin.com/in/ikshu-gupta">
-  <img src="https://cdn.simpleicons.org/linkedin" height="20"/>
-</a>
+  <img src="https://cdn.simpleicons.org/linkedin" height="22"/>
+</a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:ikshugupta7@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail" height="20"/>
-</a>
+  <img src="https://cdn.simpleicons.org/gmail" height="22"/>
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/ikshu7">
-  <img src="https://cdn.simpleicons.org/github" height="20"/>
-</a>
+  <img src="https://cdn.simpleicons.org/github" height="22"/>
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/ikshu7">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="20"/>
-</a>
+  <img src="https://cdn.simpleicons.org/leetcode" height="22"/>
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://kaggle.com/ikshugupta">
-  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="20"/>
+  <img src="https://cdn.simpleicons.org/kaggle" height="22"/>
 </a>
+
 
 
 <!--
