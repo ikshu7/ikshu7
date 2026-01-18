@@ -59,7 +59,7 @@ July 2025 – December 2025
 ## Education
 
 ### Bachelor of Science (BS) – Data Science and Applications  
-**Indian Institute of Technology, Madras**  
+####**Indian Institute of Technology, Madras**  
 2023 – Present  
 
 - Focus on Data Analysis, Programming, and Statistics
@@ -85,7 +85,7 @@ Tools: Git, GitHub, Command Line
 
 ---
 
-## Problem Solving and Data Platforms
+## Problem Solving
 
 - Solved a significant number of LeetCode problems across Easy, Medium, and Hard categories
 - Strong focus on data structures, algorithms, and problem-solving patterns
