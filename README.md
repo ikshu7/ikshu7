@@ -59,7 +59,7 @@ July 2025 – December 2025
 ## Education
 
 ### Bachelor of Science (BS) – Data Science and Applications  
-####**Indian Institute of Technology, Madras**  
+**Indian Institute of Technology, Madras**  
 2023 – Present  
 
 - Focus on Data Analysis, Programming, and Statistics
