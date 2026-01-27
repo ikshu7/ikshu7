@@ -1,7 +1,6 @@
 ## Hi, I'm Ikshu
 
-Aspiring Data Scientist with Backend Development Experience | Python, SQL  
-India 
+Aspiring Data Scientist with Backend Development Experience | Python, SQL
 
 ---
 
@@ -9,7 +8,6 @@ India
 I am an aspiring data scientist with hands-on experience in Python, SQL, and data analysis.
 I have worked on backend and data-driven applications and enjoy extracting insights from real-world datasets.
 My interests include data analysis, visualization, and building scalable backend systems.
-
 
 ---
 
