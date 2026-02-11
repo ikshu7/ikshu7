@@ -5,8 +5,8 @@ Aspiring Data Scientist with Backend Development Experience | Python, SQL
 ---
 
 ## About Me
-I am an aspiring data scientist with hands-on experience in Python, SQL, and data analysis.
-I have worked on backend and data-driven applications and enjoy extracting insights from real-world datasets.
+An aspiring data scientist with hands-on experience in Python, SQL, and data analysis.
+Worked on backend and data-driven applications and enjoy extracting insights from real-world datasets.
 My interests include data analysis, visualization, and building scalable backend systems.
 
 ---
@@ -37,6 +37,21 @@ July 2025 – December 2025
 - Streamlined appointment scheduling and patient record management
 
 **Tech Stack:** Python, Flask, SQL, HTML, CSS  
+
+### Productivity Core API 
+[View Repository](https://github.com/ikshu7/Productivity-Core-API)
+
+- Architected and developed a production-ready RESTful API for managing Notes, Reminders, and Todo entities using Django and Django REST Framework.
+- Designed a modular, scalable backend with clean separation of concerns, reusable components, and optimized ORM query strategies for performance.
+  
+Implemented advanced API capabilities including:
+- Custom pagination architecture
+- Dynamic filtering, ordering, and search
+- Cross-model universal search
+- Structured app-level modularization for maintainability
+- Built following REST standards and backend best practices, with a foundation prepared for JWT authentication, user-level data isolation, and horizontal scalability.
+
+**Tech Stack:** Python, Django, Django REST Framework, SQLite, REST APIs, Git 
 
 ### Vehicle Parking Management System  
 [View Repository](https://github.com/ikshu7/vehicle-parking-system)
